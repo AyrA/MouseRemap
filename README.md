@@ -1,6 +1,8 @@
 # Mouse Button Remapper
 
-This application remaps the fake mouse button on ![a certain 7 inch mini laptop from aliexpress](https://i.imgur.com/Bz1Dyyu.jpg) to real mouse buttons using autohotkey.
+This application remaps the fake mouse button on a certain 7 inch mini laptop from aliexpress to real mouse buttons using autohotkey.
+
+![laptop image](https://i.imgur.com/Bz1Dyyu.jpg)
 
 This works much better and more reliable than the keyboard mouse function of the accessibility tools. Especially things like drag and drop work much more reliable, and support in games is generally also better.
 
