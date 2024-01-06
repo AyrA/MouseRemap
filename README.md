@@ -1,6 +1,8 @@
 # Mouse Button Remapper
 
-This application remaps the fake mouse button on a certain 7 inch mini laptop from aliexpress to real mouse buttons using autohotkey.
+This application remaps the fake mouse button on ![a certain 7 inch mini laptop from aliexpress](https://i.imgur.com/Bz1Dyyu.jpg) to real mouse buttons using autohotkey.
+
+This works much better and more reliable than the keyboard mouse function of the accessibility tools. Especially things like drag and drop work much more reliable, and support in games is generally also better.
 
 ## How the built-in mouse works
 
@@ -21,10 +23,8 @@ If you prefer to use the script directly, follow these steps
 1. [Install Autohotkey](https://www.autohotkey.com)
 2. Copy the `MouseRemap.ahk` file into your startup folder (see chapter above on how to do this)
 
-## Pausing the script
-
-A green "H" icon will be placed in the tray icon section while the script is running. You can right click the icon and pause the script if it interferes with something. In general you only have to do this if you connect an external keyboard and want to use the two keys that are remapped.
-
 ## Drawbacks
 
 This solution is not without flaws. The primary one being that the script is not active unless you sign into your account. This means you're forced to navigate the lock screen and logon screen using the keyboard, an external mouse, or the touch screen.
+
+Another problem is that the `5` key on the numpad no longer works. This is not an issue with the internal keyboard, but if you connect a full sized keyboard to it and want to use the numpad, you may find this annoying. To fix that, you can rightclick the green "H" icon in the tray icon section and pause the script.
