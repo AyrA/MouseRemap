@@ -8,7 +8,7 @@ This works much better and more reliable than the keyboard mouse function of the
 
 ## How the built-in mouse works
 
-The red nub registers as a regular mouse and moves the cursor appropriately. The two mouse buttons however, are for some weird reason not part of said mouse, but the keyboard. The left button maps to the "5" key on the numpad, and the right button maps to the context menu key that's usually found below the right shift key on full sized keyboards.
+The red nub registers as a regular mouse and moves the cursor appropriately. The two mouse buttons however, are for some weird reason not part of said mouse, but the keyboard. The left button maps to the "5" key on the numpad, and the right button maps to the context menu key that's usually found below the right shift key on full sized keyboards. On this device it's on the mute key, effectively giving it this key twice.
 
 ## Installation
 
